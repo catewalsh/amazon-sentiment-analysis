@@ -3,6 +3,7 @@ Multinomial Naive Bayes algorithm to classify Amazon reviews as positive or nega
 
 ## Data
 Data from: https://www.kaggle.com/snap/amazon-fine-food-reviews
+Download data and upload to /data under reviews.csv
 
 ## Files
 preprocessing.ipynb : Create dataset of negative and positive reviews, clean text for analysis, prepare test and train datasets<br />
